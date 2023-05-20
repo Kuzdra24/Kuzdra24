@@ -4,7 +4,7 @@
 Hi there! Welcome to my GitHub profile.
 
 ## About Me
-I'm Patryk Kuzdrowski, a high school student in the fourth grade of IT Technical School at ZSE im. T. Kosciuszki in Opole, Poland. Apart from my passion for technology, I also attend a music school where I play the accordion, guitar, and piano. I strongly believe that the best way to learn is through practice, and I constantly work on interesting projects to gain experience and pursue my dream of becoming a frontend developer.
+I'm Patryk Kuzdrowski, a student in the fourth grade of IT Technical collage at ZSE im. T. Kosciuszki in Opole, Poland. Apart from my passion for technology, I also attend a music school where I play the accordion, guitar, and piano. I strongly believe that the best way to learn is through practice, and I constantly work on interesting projects to gain experience and pursue my dream of becoming a frontend developer.
 
 ## Tech STACK
  - JavaScript (JS)
@@ -17,7 +17,7 @@ I'm Patryk Kuzdrowski, a high school student in the fourth grade of IT Technical
 Here are a few examples of my projects:
 
 - [🧹Sprzątando](https://github.com/loudsheep/sprzatando)- Sprzątando is a school project that connects people who need cleaning services with those who can provide them. The project aims to improve group work skills by providing students with a real-world problem to solve.
-- [Fitness App](https://github.com/Kuzdra24/fitness-app) - The prototype of an application assisting in creating a training plan and exercise scheduling.
+- [💪🏽Fitness App](https://github.com/Kuzdra24/fitness-app) - The prototype of an application assisting in creating a training plan and exercise scheduling.
 
 ## Get in Touch
 📫 You can reach me via:
